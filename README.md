@@ -1,7 +1,8 @@
 <img src="project-logo.png" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
-> Template files for writing maintanable GitHub projects. Make your repo pretty!
+> Community health file for organization
+> Issue and pull request templates 
 
 [![Under Development](https://img.shields.io/badge/under-development-orange.svg)](https://github.com/cezaraugusto/github-template-guidelines) [![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![Travis](https://img.shields.io/travis/cezaraugusto/github-template-guidelines.svg)](http://github.com/cezaraugusto/github-template-guidelines)
 
@@ -9,8 +10,10 @@ So you had an idea and developed the next world's industry-changing application.
 
 <br>
 <p align="center">
-<strong>Templates included:</strong>
-<a href="/.github/README.md">README</a> • <a href="/.github/CONTRIBUTING.md">CONTRIBUTING </a> • <a href="/.github/PULL_REQUEST_TEMPLATE.md">PULL REQUEST</a> • <a href="/.github/ISSUE_TEMPLATE.md">ISSUE TEMPLATE</a> • <a href="/.github/CONTRIBUTORS.md">CONTRIBUTORS</a>
+<a href="/PULL_REQUEST_TEMPLATE.md">PULL REQUEST</a> • <a href="/ISSUE_TEMPLATE.md">ISSUE TEMPLATE</a>
+</p>
+<p align="center">
+<a href="/CONTRIBUTING.md">CONTRIBUTING </a> • <a href="/CONTRIBUTORS.md">CONTRIBUTORS</a> • <a href="/CODE_OF_CONDUCT.md">CODE_OF_CONDUCT</a>
 </p>
 <br>
 
